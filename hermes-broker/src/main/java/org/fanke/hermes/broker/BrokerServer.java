@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author chao.nie@weimob.com
+ * @author vernalces@163.com
  */
 @SpringBootApplication
 public class BrokerServer {
