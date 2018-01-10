@@ -100,4 +100,10 @@
             </dependencyManagement>
         </profile>
     </profiles>
+
+    <scm>
+        <connection>scm:git:https://github.com/vernalces/fanke-hermes.git</connection>
+        <developerConnection>scm:git:https://github.com/vernalces/fanke-hermes.git</developerConnection>
+        <url>https://github.com/vernalces/fanke-hermes</url>
+    </scm>
 </project>
